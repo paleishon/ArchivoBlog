@@ -1,7 +1,20 @@
 body    
 {   
-    color: rgb(23, 4, 199);
+    color: black;
     text-align: center;
     font-family: "Arial";
 }
 
+#container
+{
+  width: 70%;
+  padding: 1em;
+  text-align: center;
+  border: 1px solid darkgoldenrod;
+  margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
